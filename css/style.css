@@ -5,6 +5,9 @@ a {
     body {
         padding: 0 0;
     }
+    img {
+    	width: 100%;
+    }
 }
 body  {
 	padding: 0 25%;
