@@ -30,6 +30,11 @@ img {
 	width: 300px;	
 }
 
+nav{
+	float: left;
+	background-color:#030303;
+}
+
 @media screen and (max-width: 920px) {
     body {
         padding: 0 0;
