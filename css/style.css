@@ -1,7 +1,11 @@
 a {
 	color: black;	
 }
-
+@media screen and (min-width: 920px) {
+    body {
+        padding: 0 25%;
+    }
+}
 body  {
 	padding: 0 25%;
 }
