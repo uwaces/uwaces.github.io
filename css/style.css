@@ -29,20 +29,23 @@ p{
 img {
 	width: 300px;	
 }
+nav {
+	padding-bottom: 10px;
+}
 /* W3C content */
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #CCC;
 }
 
-li {
+nav ul li {
     float: left;
 }
 
-li a {
+nav ul li a {
     display: block;
     color: white;
     text-align: center;
@@ -51,8 +54,8 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
-    background-color: #111;
+nav ul li a:hover {
+    background-color: white;
 }
 /* W3C Content end*/
 
