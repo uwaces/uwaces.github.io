@@ -29,10 +29,13 @@ p{
 img {
 	width: 300px;	
 }
+/* Start modified w3c schools content for menu */
+
 nav {
 	padding-bottom: 10px;
+	width: 100%;
 }
-/* W3C content */
+
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -53,11 +56,10 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 nav ul li a:hover {
     background-color: white;
 }
-/* W3C Content end*/
+/* W3C modifed Content end*/
 
 @media screen and (max-width: 920px) {
     body {
