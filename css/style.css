@@ -1,15 +1,7 @@
 a {
 	color: black;	
 }
-@media screen and (max-width: 920px) {
-    body {
-        padding: 0 0;
-        width: 100%;
-    }
-    img {
-    	width: 100%;
-    }
-}
+
 body  {
 	padding: 0 25%;
 }
@@ -36,4 +28,14 @@ p{
 }
 img {
 	width: 300px;	
+}
+
+@media screen and (max-width: 920px) {
+    body {
+        padding: 0 0;
+        width: 100%;
+    }
+    img {
+    	width: 100%;
+    }
 }
