@@ -31,8 +31,13 @@ img {
 }
 
 nav{
-	float: left;
-	background-color:#030303;
+	
+}
+
+nav ol {
+	float:left;
+	background-color:#CCC;
+	padding: 0 10px;
 }
 
 @media screen and (max-width: 920px) {
