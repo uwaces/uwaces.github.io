@@ -4,6 +4,7 @@ a {
 @media screen and (max-width: 920px) {
     body {
         padding: 0 0;
+        background-color: green;
     }
     img {
     	width: 100%;
