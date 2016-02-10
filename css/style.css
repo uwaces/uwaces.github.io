@@ -3,7 +3,7 @@ a {
 }
 @media screen and (min-width: 920px) {
     body {
-        padding: 0 25%;
+        padding: 0 0;
     }
 }
 body  {
