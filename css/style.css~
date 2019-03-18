@@ -28,13 +28,6 @@ img {
     width: 60%;
 }
 
-main {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-
 section {
     display: grid;
     width: 500px;
