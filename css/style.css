@@ -41,47 +41,6 @@ section {
     margin: 0 5px;
 }
 
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 650px) {
-    section {
-        width: 500px;
-    }
-    img {width: 300px;}
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 650px) {
-    section {
-        width: 250px;
-    }
-    img {width: 200px;}
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-    section {
-        width: 500px;
-    }
-    img {width: 60%;}
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-    section {
-        width: 500px;
-    }
-    img {width: 60%;}
-}
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-    section {
-        width: 500px;
-    }
-    img {width: 60%;}
-}
-
-
 p  {
     color: black;
     font-family: courier;
